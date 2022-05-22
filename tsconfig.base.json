@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@linkdin-clone/core-data": ["libs/core-data/src/index.ts"],
-      "@linkdin-clone/core-state": ["libs/core-state/src/index.ts"]
+      "@linkdin-clone/core-state": ["libs/core-state/src/index.ts"],
+      "@linkdin-clone/material": ["libs/material/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

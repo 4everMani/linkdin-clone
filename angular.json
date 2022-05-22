@@ -5,6 +5,7 @@
     "core-data": "libs/core-data",
     "core-state": "libs/core-state",
     "linkdin-clone": "apps/linkdin-clone",
-    "linkdin-clone-e2e": "apps/linkdin-clone-e2e"
+    "linkdin-clone-e2e": "apps/linkdin-clone-e2e",
+    "material": "libs/material"
   }
 }

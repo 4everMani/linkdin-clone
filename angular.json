@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "linkdin-clone": "apps/linkdin-clone",
+    "linkdin-clone-e2e": "apps/linkdin-clone-e2e"
+  }
+}
